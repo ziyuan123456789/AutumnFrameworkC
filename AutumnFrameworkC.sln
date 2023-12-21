@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutumnFrameworkC", "AutumnFrameworkC\AutumnFrameworkC.csproj", "{BC5FED57-EC1E-448F-9A3E-2E2435F01462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC5FED57-EC1E-448F-9A3E-2E2435F01462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5FED57-EC1E-448F-9A3E-2E2435F01462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5FED57-EC1E-448F-9A3E-2E2435F01462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5FED57-EC1E-448F-9A3E-2E2435F01462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
